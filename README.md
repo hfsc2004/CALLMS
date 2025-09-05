@@ -50,7 +50,7 @@ Complexity scores—especially when applied to outputs from large language model
 
     Story branching: Use complexity scores to guide narrative depth and pacing.
 
-If you’re building something with LLMs, complexity scoring can be a powerful lever for control, personalization, and quality assurance. Want help integrating it into a specific workflow or product idea?
+If you’re building something with LLMs, complexity scoring can be a powerful lever for control, personalization, and quality assurance.
 
 
 Bottom Line: CALLMS is unique in its simplicity and specificity. If your goal is to trigger actions based on how complex or nuanced a model’s response is—not just whether it’s right—CALLMS is a rare and valuable tool.
